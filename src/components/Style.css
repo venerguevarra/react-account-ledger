@@ -1,0 +1,14 @@
+.account-entry-form {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.account-entry-form .form-group {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.ledger thead tr th {
+    background-color: darkgrey;
+}
